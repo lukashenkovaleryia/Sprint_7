@@ -39,3 +39,10 @@ class CreatingOrder:
         (['BLACK'], ['GREY']),
         ['']
     ]
+
+
+not_courier_data = {
+    "login": 'Маша',
+    "password": '1234',
+    "firstName": 'Маша'
+}
